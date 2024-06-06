@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pet-books</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="library">Library</string>
+    <string name="e_books">E-Books</string>
+    <string name="settings">Settings</string>
+</resources>
